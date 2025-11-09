@@ -1,26 +1,25 @@
 # 👋 Salut, moi c’est **Steve Tetchoup** !
 
-### 💻 Développeur Full-Stack Junior | 🌐 Web & 📱 Mobile | 🚀 Passionné par la création d’applications modernes
+### 💻 Développeur Full-Stack Junior | 🌐 Web 
+<!-- & 📱 Mobile -->
 
 ---
 
 ## 🧠 À propos de moi
 
-Je suis un **développeur fullstack junior** passionné par la conception d’expériences numériques fluides et performantes.  
-J’aime apprendre de nouvelles technologies et relever des défis techniques, que ce soit sur le web ou le mobile.
+Je suis un **développeur fullstack junior** passionné, j’aime apprendre de nouvelles technologies et relever des défis techniques.
 
 ### 💡 Domaines de compétences :
-- ⚛️ **Frontend :** React.js, Vue.js, Tailwind CSS  
-- 🛠️ **Backend :** Node.js, AdonisJS, Express  
-- 🧩 **Mobile :** Java, Android Studio  
+- ⚛️ **Frontend :** JavaScript, TypeScript, React.js, Vue.js, Tailwind CSS  
+- 🛠️ **Backend :** Node.js, Express, Spring Boot  
 - 🗄️ **Bases de données :** MySQL, PostgreSQL  
 - ⚙️ **Outils & DevOps :** Git, GitHub, Docker  
-
+<!-- - 🧩 **Mobile :** Java, Android Studio --> 
 ---
 
 ## 🧰 Technologies & Outils
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,express,adonis,mysql,postgres,java,androidstudio,git,github,docker,vscode&theme=dark" alt="Technologies Steve Tetchoup" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express,mysql,postgres,java,git,docker&theme=dark" alt="Technologies Steve Tetchoup" />
 </p>
 
 ---
@@ -33,15 +32,15 @@ J’aime apprendre de nouvelles technologies et relever des défis techniques, q
 
 ---
 
+<!--
 ## 🌟 Projets phares
-Voici quelques projets représentatifs de mon travail :
 
 - 🚀 [Portfolio personnel](https://stevetetchoup.vercel.app) — Mon site vitrine et mes réalisations.
 - 🧾 [Application de gestion](#) — Une app web complète avec React + AdonisJS.
 - 📱 [App mobile de location de voitures](#) — Projet Android développé en Java.
 
 ---
-
+-->
 ## 📫 Me contacter
 <p align="center">
   <a href="https://www.linkedin.com/in/steve-tetchoup/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
