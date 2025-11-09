@@ -26,7 +26,8 @@ Je suis un **développeur fullstack junior** passionné, j’aime apprendre de n
 
 ## 📊 Mes statistiques GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SteveTetchoup26&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SteveTetchoup26&show_icons=true&theme=tokyonight&hide_border=true" /> -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SteveTetchoup26&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteveTetchoup26&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
