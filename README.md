@@ -5,10 +5,10 @@
 
 ---
 
-## 🧠 À propos de moi
+<!-- ## 🧠 À propos de moi
 
 Je suis un **développeur fullstack junior** passionné, j’aime apprendre de nouvelles technologies et relever des défis techniques.
-
+-->
 ### 💡 Domaines de compétences :
 - ⚛️ **Frontend :** JavaScript, TypeScript, React.js, Vue.js, Tailwind CSS  
 - 🛠️ **Backend :** Node.js, Express, Spring Boot  
